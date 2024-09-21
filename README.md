@@ -1,2 +1,2 @@
-# SQL_Aaanlysis
+# SQL_Aanlysis
 Consists of projects did using SQL
